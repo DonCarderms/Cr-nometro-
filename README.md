@@ -1,3 +1,4 @@
 # Crônometro
 Crônometro feito com html, css e javaScript
-(https://doncarderms.github.io/Cr-nometro-/)[https://doncarderms.github.io/Cr-nometro-/]
+para vizualisar 
+clique <a target="_blank" href="https://doncarderms.github.io/Cr-nometro-/">Aqui</a> 
